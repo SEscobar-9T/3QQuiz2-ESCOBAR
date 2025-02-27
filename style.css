@@ -1,0 +1,25 @@
+h1 {
+	font-family: courier;
+	text-align: center;
+	background-color: lightblue;
+	color: white;
+}
+
+form {
+	background-color: rgba(117,233,240,0.75);
+	border-radius: 10px;
+	padding: 60px ;
+	margin: 5%;
+	width: 800px;
+	margin-left: 500px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(https://www.shutterstock.com/image-vector/background-retro-rays-vintage-backdrop-600nw-2264485027.jpg);
+	background-size: cover;
+	font-family: courier;
+}
+
+
